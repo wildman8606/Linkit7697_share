@@ -1,4 +1,4 @@
-//這原本是寫提供給實驗室學弟的，雖然大多使用7688但還是推廣一下適合新手的7697。
+//這原本是寫提供給實驗室學弟的，雖然自己大多使用7688但還是推廣一下適合新手的7697。
 //問題聯絡:https://www.facebook.com/peter8606
 //信箱:peter8606@gmail.com
 //And Sorry My English Is Very Poor,So If You Are Not Taiwanese My Answer Could Not be Satisfy You.
