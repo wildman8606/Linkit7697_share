@@ -1,8 +1,6 @@
 //這原本是寫提供給實驗室學弟的，雖然自己大多使用7688但還是推廣一下適合新手的7697。
 //問題聯絡:https://www.facebook.com/peter8606
 //信箱:peter8606@gmail.com
-//And Sorry My English Is Very Poor,So If You Are Not Taiwanese My Answer Could Not be Satisfy You.
-
 #include <DHT.h> //引用DHT溫溼度感測器涵式
 #define TYPE DHT22 //選擇DHT溫溼度感測器型號
 #include <LWiFi.h> //引用Wi-Fi涵式
